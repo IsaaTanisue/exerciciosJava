@@ -2,7 +2,7 @@ package Videos;
 
 import java.util.Locale;
 
-public class video24 {
+public class Video24 {
     public static void main(String[] args) {
 
         String product1 = "Computer";
